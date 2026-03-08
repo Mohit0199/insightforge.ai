@@ -6,8 +6,21 @@ const mammoth = require('mammoth');
 
 const NEWSLETTERS_DIR = path.join(__dirname, '../public/newsletters');
 
+// ─── In-memory cache ────────────────────────────────────────────────
+let cache = null;
+let cacheTimestamp = null;
+const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
+
 router.get('/', async (req, res) => {
     try {
+        // Serve from cache if fresh
+        if (cache && cacheTimestamp && (Date.now() - cacheTimestamp < CACHE_TTL_MS)) {
+            console.log('[newsletters] serving from cache');
+            return res.json(cache);
+        }
+
+        console.log('[newsletters] cache miss — parsing .docx files...');
+
         if (!fs.existsSync(NEWSLETTERS_DIR)) {
             return res.json([]);
         }
@@ -25,32 +38,33 @@ router.get('/', async (req, res) => {
             const docxFile = files.find(f => f.endsWith('.docx'));
             const coverImage = files.find(f => f.match(/\.(png|jpe?g|gif|webp)$/i));
 
-            if (!docxFile) continue; // Skip if no .docx file is found
+            if (!docxFile) continue;
 
             const docxPath = path.join(folPath, docxFile);
             const docxStat = fs.statSync(docxPath);
 
-            // Use Mammoth to convert the .docx to HTML
             try {
                 const result = await mammoth.convertToHtml({ path: docxPath });
-                const htmlStr = result.value; // The generated HTML
-
-                // You can also access result.messages for warnings
+                const htmlStr = result.value;
 
                 newsletters.push({
                     id: fol,
-                    title: docxFile.replace('.docx', ''), // Use file name as title
+                    title: docxFile.replace('.docx', ''),
                     cover: coverImage ? `/newsletters/${encodeURIComponent(fol)}/${encodeURIComponent(coverImage)}` : null,
                     htmlContent: htmlStr,
-                    createdAt: docxStat.mtime // Use modification time as publish date
+                    createdAt: docxStat.mtime
                 });
             } catch (err) {
                 console.error(`Error parsing ${docxFile}:`, err);
             }
         }
 
-        // Sort by created at descending
+        // Sort by date descending (newest first)
         newsletters.sort((a, b) => b.createdAt - a.createdAt);
+
+        // Store in cache
+        cache = newsletters;
+        cacheTimestamp = Date.now();
 
         res.json(newsletters);
 

@@ -1164,13 +1164,137 @@ h6 {
   filter: drop-shadow(0 0 20px var(--accent-glow));
 }
 
+/* ==== Default CSS Grid Definitions for Components ==== */
+.youtube-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.playbooks-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+}
+
+/* =========================================
+   Mobile Responsiveness Definitions
+   ========================================= */
+
+@media (max-width: 1024px) {
+  .youtube-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
+  /* Navbar tweaks for phones */
+  .navbar {
+    height: auto;
+    padding: 1rem 0;
+  }
+  .navbar-container {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0 1rem;
+  }
+  .search-container {
+    width: 100%;
+    max-width: 100%;
+  }
   .nav-links {
+    display: flex; /* Override previous display:none */
+    overflow-x: auto;
+    width: 100%;
+    gap: 1.5rem;
+    padding-bottom: 0.5rem;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .nav-links::-webkit-scrollbar {
     display: none;
   }
+  .nav-link {
+    white-space: nowrap;
+    font-size: 0.95rem;
+  }
 
+  /* Typography & Layout Spacing */
+  .app-container {
+    padding-top: 10rem; /* Account for stacked navbar */
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .hero-section {
+    padding: 2rem 0 3rem;
+  }
+  .hero-title {
+    font-size: clamp(2rem, 8vw, 2.5rem);
+  }
+  .page-title {
+    font-size: 2.2rem;
+  }
   .page-content {
-    padding: 2rem;
+    padding: 1.5rem;
+  }
+
+  /* Grid Collapsing */
+  .carousel-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .playbooks-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .youtube-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  /* Lightbox Scaling for Mobile */
+  .lightbox-header {
+    padding: 1rem;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  .lightbox-content {
+    padding: 0 1rem;
+  }
+  .nav-arrow {
+    width: 44px;
+    height: 44px;
+    background: rgba(139, 92, 246, 0.5); /* Make more visible on mobile */
+  }
+  .nav-prev { left: 1rem; }
+  .nav-next { right: 1rem; }
+
+  /* Series Rows Layout */
+  .series-row {
+    padding: 1rem;
+  }
+  .series-card {
+    min-width: 85vw; /* Much wider swipe cards on mobile */
+  }
+  
+  /* Footer */
+  .footer-links {
+    gap: 2rem;
+  }
+  .footer-content {
+    flex-direction: column;
+    gap: 3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-badge {
+    font-size: 0.75rem;
+    padding: 0.4rem 0.8rem;
+  }
+  .filter-bar {
+    justify-content: flex-start; /* Let user scroll left-to-right */
   }
 }
 

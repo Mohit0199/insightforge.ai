@@ -132,11 +132,7 @@ function Videos({ searchTerm }) {
                                         </h2>
                                     </div>
 
-                                    <div className="youtube-grid" style={{
-                                        display: 'grid',
-                                        gridTemplateColumns: 'repeat(3, 1fr)',
-                                        gap: '1.5rem'
-                                    }}>
+                                    <div className="youtube-grid">
                                         {playlist.videos.slice(0, 3).map((video) => (
                                             <div
                                                 key={video.id}

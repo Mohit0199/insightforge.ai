@@ -109,7 +109,6 @@ function Playbooks({ searchTerm }) {
                     <AnimatePresence mode="popLayout">
                         <motion.div
                             className="playbooks-grid"
-                            style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '3rem' }}
                         >
                             {paginatedPlaybooks.map((playbook, index) => (
                                 <motion.div

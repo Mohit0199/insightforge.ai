@@ -29,8 +29,8 @@ router.get('/', (req, res) => {
                     return numA - numB;
                 });
 
-            // Clean up title (remove 'LM_' prefix, replace underscores with spaces)
-            let rawTitle = folder;
+            // Clean up title: strip leading digits (e.g. '15_') and 'LM_' prefix
+            let rawTitle = folder.replace(/^\d+_/, '');
             if (rawTitle.startsWith('LM_')) {
                 rawTitle = rawTitle.substring(3);
             }
@@ -51,8 +51,8 @@ router.get('/', (req, res) => {
             };
         });
 
-        // Sort playbooks newest to oldest (descending date)
-        playbooks.sort((a, b) => b.createdAt - a.createdAt);
+        // Sort playbooks newest to oldest (descending folder name e.g., 15_ -> 01_)
+        playbooks.sort((a, b) => b.id.localeCompare(a.id, undefined, { numeric: true }));
 
         res.json(playbooks);
 

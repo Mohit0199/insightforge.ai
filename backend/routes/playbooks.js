@@ -47,7 +47,7 @@ router.get('/', (req, res) => {
                 coverImage: imageUrls[0] || null, // First slide is cover
                 images: imageUrls,
                 totalSlides: imageUrls.length,
-                createdAt: stats.mtime.getTime() // store modification time for sorting
+                createdAt: stats.birthtime ? stats.birthtime.getTime() : stats.mtime.getTime() // use creation time for stable sorting
             };
         });
 

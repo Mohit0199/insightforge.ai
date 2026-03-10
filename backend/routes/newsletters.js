@@ -59,8 +59,8 @@ router.get('/', async (req, res) => {
             }
         }
 
-        // Sort by date descending (newest first)
-        newsletters.sort((a, b) => b.createdAt - a.createdAt);
+        // Sort by folder name descending (e.g., Edition 044 -> Edition 001)
+        newsletters.sort((a, b) => b.id.localeCompare(a.id));
 
         // Store in cache
         cache = newsletters;

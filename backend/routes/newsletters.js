@@ -47,20 +47,28 @@ router.get('/', async (req, res) => {
                 const result = await mammoth.convertToHtml({ path: docxPath });
                 const htmlStr = result.value;
 
+                // Parse exact date from folder name: "24-05-2025_Edition 001"
+                let folderDate = docxStat.mtime;
+                const match = fol.match(/^(\d{2})-(\d{2})-(\d{4})_Edition/);
+                if (match) {
+                    const [_, day, month, year] = match;
+                    folderDate = new Date(`${year}-${month}-${day}T12:00:00Z`);
+                }
+
                 newsletters.push({
                     id: fol,
                     title: docxFile.replace('.docx', ''),
                     cover: coverImage ? `/newsletters/${encodeURIComponent(fol)}/${encodeURIComponent(coverImage)}` : null,
                     htmlContent: htmlStr,
-                    createdAt: docxStat.mtime
+                    createdAt: folderDate
                 });
             } catch (err) {
                 console.error(`Error parsing ${docxFile}:`, err);
             }
         }
 
-        // Sort by folder name descending (e.g., Edition 044 -> Edition 001)
-        newsletters.sort((a, b) => b.id.localeCompare(a.id));
+        // Sort by publish date descending (newest first based on actual folder timestamp)
+        newsletters.sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime());
 
         // Store in cache
         cache = newsletters;

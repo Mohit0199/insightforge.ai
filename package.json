@@ -1,0 +1,14 @@
+﻿{
+  "name": "insightforge",
+  "version": "1.0.0",
+  "description": "Insightforge AI Platform",
+  "scripts": {
+    "publish": "node scripts/publish.js",
+    "sync": "node scripts/publish.js",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": [],
+  "author": "Mohit Rathod",
+  "license": "ISC"
+}

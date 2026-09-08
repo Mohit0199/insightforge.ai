@@ -1,4 +1,4 @@
-﻿require('dotenv').config();
+require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const ImageKit = require('imagekit');
@@ -108,72 +108,79 @@ async function runQueue(tasks, concurrency = 10, onProgress) {
     return errors;
 }
 
-// ─── CAROUSELS METADATA BUILDER ──────────────────────────────────────────────
+// ─── CAROUSELS METADATA BUILDER (INCREMENTAL MERGE) ──────────────────────────
 function generateCarouselsData(endpointUrl) {
-    if (!fs.existsSync(CAROUSELS_DIR)) return [];
-
-    const folders = fs.readdirSync(CAROUSELS_DIR, { withFileTypes: true })
-        .filter(dirent => dirent.isDirectory())
-        .map(dirent => dirent.name);
-
-    const carouselsData = folders.map(folder => {
-        const folderPath = path.join(CAROUSELS_DIR, folder);
-        const metadataPath = path.join(folderPath, 'metadata.json');
-
-        let isSeries = false;
-        let seriesName = null;
-        let sequenceNumber = 0;
-        let title = folder.replace(/-|_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-
-        if (folder.toUpperCase().startsWith('DS_')) {
-            isSeries = true;
-            let namePart = folder.substring(3);
-            const match = namePart.match(/^(.+?)(_?\d+)$/);
-            if (match) {
-                seriesName = match[1];
-                const numString = match[2].replace('_', '');
-                sequenceNumber = parseInt(numString, 10);
-            } else {
-                seriesName = namePart;
-                sequenceNumber = 1;
-            }
-
-            if (!/^[A-Z]+$/.test(seriesName)) {
-                seriesName = seriesName
-                    .replace(/([a-z])([A-Z])/g, '$1 $2')
-                    .trim()
-                    .replace(/ +/g, ' ');
-            }
-            title = `${seriesName} - Part ${sequenceNumber}`;
+    const existingMap = new Map();
+    if (fs.existsSync(MANIFEST_CAROUSELS)) {
+        try {
+            const existingData = JSON.parse(fs.readFileSync(MANIFEST_CAROUSELS, 'utf8'));
+            existingData.forEach(item => existingMap.set(item.id, item));
+        } catch (e) {
+            console.warn('Could not read existing carousels manifest, starting fresh.');
         }
+    }
 
-        let metadata = {
-            id: folder,
-            title: title,
-            tags: isSeries ? [seriesName, 'Data Science'] : [],
-            description: isSeries ? `Part ${sequenceNumber} of the comprehensive ${seriesName} series.` : 'Explore this insight carousel.',
-            isSeries: isSeries,
-            seriesName: seriesName,
-            sequenceNumber: sequenceNumber
-        };
+    if (fs.existsSync(CAROUSELS_DIR)) {
+        const folders = fs.readdirSync(CAROUSELS_DIR, { withFileTypes: true })
+            .filter(dirent => dirent.isDirectory())
+            .map(dirent => dirent.name);
 
-        if (fs.existsSync(metadataPath)) {
-            try {
-                const rawData = fs.readFileSync(metadataPath, 'utf8');
-                metadata = { ...metadata, ...JSON.parse(rawData), id: folder };
-                if (isSeries && !metadata.tags.includes(seriesName)) {
-                    metadata.tags.push(seriesName);
+        folders.forEach(folder => {
+            const folderPath = path.join(CAROUSELS_DIR, folder);
+            const metadataPath = path.join(folderPath, 'metadata.json');
+
+            let isSeries = false;
+            let seriesName = null;
+            let sequenceNumber = 0;
+            let title = folder.replace(/-|_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+            if (folder.toUpperCase().startsWith('DS_')) {
+                isSeries = true;
+                let namePart = folder.substring(3);
+                const match = namePart.match(/^(.+?)(_?\d+)$/);
+                if (match) {
+                    seriesName = match[1];
+                    const numString = match[2].replace('_', '');
+                    sequenceNumber = parseInt(numString, 10);
+                } else {
+                    seriesName = namePart;
+                    sequenceNumber = 1;
                 }
-            } catch (e) {
-                console.error(`Error parsing metadata in ${folder}:`, e);
-            }
-        }
 
-        let images = [];
-        if (fs.existsSync(folderPath)) {
+                if (!/^[A-Z]+$/.test(seriesName)) {
+                    seriesName = seriesName
+                        .replace(/([a-z])([A-Z])/g, '$1 $2')
+                        .trim()
+                        .replace(/ +/g, ' ');
+                }
+                title = `${seriesName} - Part ${sequenceNumber}`;
+            }
+
+            let metadata = {
+                id: folder,
+                title: title,
+                tags: isSeries ? [seriesName, 'Data Science'] : [],
+                description: isSeries ? `Part ${sequenceNumber} of the comprehensive ${seriesName} series.` : 'Explore this insight carousel.',
+                isSeries: isSeries,
+                seriesName: seriesName,
+                sequenceNumber: sequenceNumber
+            };
+
+            if (fs.existsSync(metadataPath)) {
+                try {
+                    const rawData = fs.readFileSync(metadataPath, 'utf8');
+                    metadata = { ...metadata, ...JSON.parse(rawData), id: folder };
+                    if (isSeries && !metadata.tags.includes(seriesName)) {
+                        metadata.tags.push(seriesName);
+                    }
+                } catch (e) {
+                    console.error(`Error parsing metadata in ${folder}:`, e);
+                }
+            }
+
+            let images = [];
             const files = fs.readdirSync(folderPath);
-            images = files
-                .filter(file => imageExtensions.includes(path.extname(file).toLowerCase()));
+            images = files.filter(file => imageExtensions.includes(path.extname(file).toLowerCase()));
 
             images.sort((a, b) => {
                 const isOutroA = a.toLowerCase().includes('outro');
@@ -185,22 +192,24 @@ function generateCarouselsData(endpointUrl) {
                 if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
                 return a.localeCompare(b);
             });
-        }
 
-        const baseUrl = endpointUrl.replace(/\/+$/, '');
-        const cleanFolder = sanitizeFolderName(folder);
-        const cdnImages = images.map(img => `${baseUrl}/carousels/${cleanFolder}/${sanitizeFileName(img)}`);
+            if (images.length > 0) {
+                const baseUrl = endpointUrl.replace(/\/+$/, '');
+                const cleanFolder = sanitizeFolderName(folder);
+                const cdnImages = images.map(img => `${baseUrl}/carousels/${cleanFolder}/${sanitizeFileName(img)}`);
 
-        return {
-            ...metadata,
-            images: cdnImages,
-            cover: cdnImages.length > 0 ? cdnImages[0] : null,
-            slideCount: images.length
-        };
-    });
+                existingMap.set(folder, {
+                    ...metadata,
+                    images: cdnImages,
+                    cover: cdnImages.length > 0 ? cdnImages[0] : null,
+                    slideCount: images.length
+                });
+            }
+        });
+    }
 
-    const validCarousels = carouselsData.filter(c => c.images.length > 0);
-    validCarousels.sort((a, b) => {
+    const mergedCarousels = Array.from(existingMap.values());
+    mergedCarousels.sort((a, b) => {
         if (a.isSeries && b.isSeries) {
             if (a.seriesName === b.seriesName) return a.sequenceNumber - b.sequenceNumber;
             return a.seriesName.localeCompare(b.seriesName);
@@ -210,106 +219,129 @@ function generateCarouselsData(endpointUrl) {
         return a.title.localeCompare(b.title);
     });
 
-    return validCarousels;
+    return mergedCarousels;
 }
 
-// ─── PLAYBOOKS METADATA BUILDER ──────────────────────────────────────────────
+// ─── PLAYBOOKS METADATA BUILDER (INCREMENTAL MERGE) ──────────────────────────
 function generatePlaybooksData(endpointUrl) {
-    if (!fs.existsSync(SLIDE_DECKS_DIR)) return [];
-
-    const folders = fs.readdirSync(SLIDE_DECKS_DIR, { withFileTypes: true })
-        .filter(dirent => dirent.isDirectory())
-        .map(dirent => dirent.name);
-
-    const baseUrl = endpointUrl.replace(/\/+$/, '');
-
-    const playbooks = folders.map(folder => {
-        const folderPath = path.join(SLIDE_DECKS_DIR, folder);
-        const files = fs.readdirSync(folderPath);
-        const stats = fs.statSync(folderPath);
-
-        const imageFiles = files
-            .filter(file => file.match(/\.(jpg|jpeg|png|gif|webp)$/i))
-            .sort((a, b) => {
-                const numA = parseInt(a.split('.')[0]) || 0;
-                const numB = parseInt(b.split('.')[0]) || 0;
-                return numA - numB;
-            });
-
-        let rawTitle = folder.replace(/^\d+_/, '');
-        if (rawTitle.startsWith('LM_')) rawTitle = rawTitle.substring(3);
-        const cleanTitle = rawTitle.replace(/_/g, ' ');
-
-        const cleanFolder = sanitizeFolderName(folder);
-        const imageUrls = imageFiles.map(file => `${baseUrl}/slide_decks/${cleanFolder}/${sanitizeFileName(file)}`);
-
-        return {
-            id: folder,
-            title: cleanTitle,
-            description: `A visual deep-dive playbook on ${cleanTitle}.`,
-            tags: ['Playbook', 'Visual Guide'],
-            coverImage: imageUrls[0] || null,
-            images: imageUrls,
-            totalSlides: imageUrls.length,
-            createdAt: stats.birthtime ? stats.birthtime.getTime() : stats.mtime.getTime()
-        };
-    });
-
-    playbooks.sort((a, b) => b.id.localeCompare(a.id, undefined, { numeric: true }));
-    return playbooks;
-}
-
-// ─── NEWSLETTERS METADATA BUILDER ─────────────────────────────────────────────
-async function generateNewslettersData(endpointUrl) {
-    if (!fs.existsSync(NEWSLETTERS_DIR)) return [];
-    const mammoth = require('mammoth');
-
-    const folders = fs.readdirSync(NEWSLETTERS_DIR, { withFileTypes: true })
-        .filter(dirent => dirent.isDirectory())
-        .map(dirent => dirent.name);
-
-    const baseUrl = endpointUrl.replace(/\/+$/, '');
-    const newsletters = [];
-
-    for (const fol of folders) {
-        const folPath = path.join(NEWSLETTERS_DIR, fol);
-        const files = fs.readdirSync(folPath);
-        const docxFile = files.find(f => f.endsWith('.docx'));
-        const coverImage = files.find(f => f.match(/\.(png|jpe?g|gif|webp)$/i));
-
-        if (!docxFile) continue;
-
-        const docxPath = path.join(folPath, docxFile);
-        const docxStat = fs.statSync(docxPath);
-
+    const existingMap = new Map();
+    if (fs.existsSync(MANIFEST_PLAYBOOKS)) {
         try {
-            const result = await mammoth.convertToHtml({ path: docxPath });
-            const htmlStr = result.value;
-
-            let folderDate = docxStat.mtime;
-            const match = fol.match(/^(\d{2})-(\d{2})-(\d{4})_Edition/);
-            if (match) {
-                const [_, day, month, year] = match;
-                folderDate = new Date(`${year}-${month}-${day}T12:00:00Z`);
-            }
-
-            const cleanFolder = sanitizeFolderName(fol);
-            const coverUrl = coverImage ? `${baseUrl}/newsletters/${cleanFolder}/${sanitizeFileName(coverImage)}` : null;
-
-            newsletters.push({
-                id: fol,
-                title: docxFile.replace('.docx', ''),
-                cover: coverUrl,
-                htmlContent: htmlStr,
-                createdAt: folderDate
-            });
-        } catch (err) {
-            console.error(`Error parsing ${docxFile}:`, err);
+            const existingData = JSON.parse(fs.readFileSync(MANIFEST_PLAYBOOKS, 'utf8'));
+            existingData.forEach(item => existingMap.set(item.id, item));
+        } catch (e) {
+            console.warn('Could not read existing playbooks manifest, starting fresh.');
         }
     }
 
-    newsletters.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
-    return newsletters;
+    if (fs.existsSync(SLIDE_DECKS_DIR)) {
+        const folders = fs.readdirSync(SLIDE_DECKS_DIR, { withFileTypes: true })
+            .filter(dirent => dirent.isDirectory())
+            .map(dirent => dirent.name);
+
+        const baseUrl = endpointUrl.replace(/\/+$/, '');
+
+        folders.forEach(folder => {
+            const folderPath = path.join(SLIDE_DECKS_DIR, folder);
+            const files = fs.readdirSync(folderPath);
+            const stats = fs.statSync(folderPath);
+
+            const imageFiles = files
+                .filter(file => file.match(/\.(jpg|jpeg|png|gif|webp)$/i))
+                .sort((a, b) => {
+                    const numA = parseInt(a.split('.')[0]) || 0;
+                    const numB = parseInt(b.split('.')[0]) || 0;
+                    return numA - numB;
+                });
+
+            if (imageFiles.length > 0) {
+                let rawTitle = folder.replace(/^\d+_/, '');
+                if (rawTitle.startsWith('LM_')) rawTitle = rawTitle.substring(3);
+                const cleanTitle = rawTitle.replace(/_/g, ' ');
+
+                const cleanFolder = sanitizeFolderName(folder);
+                const imageUrls = imageFiles.map(file => `${baseUrl}/slide_decks/${cleanFolder}/${sanitizeFileName(file)}`);
+
+                existingMap.set(folder, {
+                    id: folder,
+                    title: cleanTitle,
+                    description: `A visual deep-dive playbook on ${cleanTitle}.`,
+                    tags: ['Playbook', 'Visual Guide'],
+                    coverImage: imageUrls[0] || null,
+                    images: imageUrls,
+                    totalSlides: imageUrls.length,
+                    createdAt: stats.birthtime ? stats.birthtime.getTime() : stats.mtime.getTime()
+                });
+            }
+        });
+    }
+
+    const mergedPlaybooks = Array.from(existingMap.values());
+    mergedPlaybooks.sort((a, b) => b.id.localeCompare(a.id, undefined, { numeric: true }));
+    return mergedPlaybooks;
+}
+
+// ─── NEWSLETTERS METADATA BUILDER (INCREMENTAL MERGE) ─────────────────────────
+async function generateNewslettersData(endpointUrl) {
+    const existingMap = new Map();
+    if (fs.existsSync(MANIFEST_NEWSLETTERS)) {
+        try {
+            const existingData = JSON.parse(fs.readFileSync(MANIFEST_NEWSLETTERS, 'utf8'));
+            existingData.forEach(item => existingMap.set(item.id, item));
+        } catch (e) {
+            console.warn('Could not read existing newsletters manifest, starting fresh.');
+        }
+    }
+
+    if (fs.existsSync(NEWSLETTERS_DIR)) {
+        const mammoth = require('mammoth');
+        const folders = fs.readdirSync(NEWSLETTERS_DIR, { withFileTypes: true })
+            .filter(dirent => dirent.isDirectory())
+            .map(dirent => dirent.name);
+
+        const baseUrl = endpointUrl.replace(/\/+$/, '');
+
+        for (const fol of folders) {
+            const folPath = path.join(NEWSLETTERS_DIR, fol);
+            const files = fs.readdirSync(folPath);
+            const docxFile = files.find(f => f.endsWith('.docx'));
+            const coverImage = files.find(f => f.match(/\.(png|jpe?g|gif|webp)$/i));
+
+            if (!docxFile) continue;
+
+            const docxPath = path.join(folPath, docxFile);
+            const docxStat = fs.statSync(docxPath);
+
+            try {
+                const result = await mammoth.convertToHtml({ path: docxPath });
+                const htmlStr = result.value;
+
+                let folderDate = docxStat.mtime;
+                const match = fol.match(/^(\d{2})-(\d{2})-(\d{4})_Edition/);
+                if (match) {
+                    const [_, day, month, year] = match;
+                    folderDate = new Date(`${year}-${month}-${day}T12:00:00Z`);
+                }
+
+                const cleanFolder = sanitizeFolderName(fol);
+                const coverUrl = coverImage ? `${baseUrl}/newsletters/${cleanFolder}/${sanitizeFileName(coverImage)}` : null;
+
+                existingMap.set(fol, {
+                    id: fol,
+                    title: docxFile.replace('.docx', ''),
+                    cover: coverUrl,
+                    htmlContent: htmlStr,
+                    createdAt: folderDate
+                });
+            } catch (err) {
+                console.error(`Error parsing ${docxFile}:`, err);
+            }
+        }
+    }
+
+    const mergedNewsletters = Array.from(existingMap.values());
+    mergedNewsletters.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+    return mergedNewsletters;
 }
 
 // ─── MAIN SYNC FUNCTION ──────────────────────────────────────────────────────

@@ -5,6 +5,21 @@ const path = require('path');
 const mammoth = require('mammoth');
 
 const NEWSLETTERS_DIR = path.join(__dirname, '../public/newsletters');
+const manifestPath = path.join(__dirname, '../data/newsletters-manifest.json');
+
+function sanitizeFolderName(name) {
+    return name
+        .replace(/[^\w-]/g, '_')
+        .replace(/_+/g, '_')
+        .replace(/^_+|_+$/g, '');
+}
+
+function sanitizeFileName(name) {
+    const ext = path.extname(name);
+    const base = path.basename(name, ext);
+    const cleanBase = base.replace(/[^\w-]/g, '_').replace(/_+/g, '_');
+    return `${cleanBase}${ext.toLowerCase()}`;
+}
 
 // ─── In-memory cache ────────────────────────────────────────────────
 let cache = null;
@@ -13,6 +28,12 @@ const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
 
 router.get('/', async (req, res) => {
     try {
+        // Fast path: serve pre-generated manifest if available
+        if (fs.existsSync(manifestPath)) {
+            const manifestData = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+            return res.json(manifestData);
+        }
+
         // Serve from cache if fresh
         if (cache && cacheTimestamp && (Date.now() - cacheTimestamp < CACHE_TTL_MS)) {
             console.log('[newsletters] serving from cache');
@@ -24,6 +45,8 @@ router.get('/', async (req, res) => {
         if (!fs.existsSync(NEWSLETTERS_DIR)) {
             return res.json([]);
         }
+
+        const endpoint = process.env.IMAGEKIT_URL_ENDPOINT ? process.env.IMAGEKIT_URL_ENDPOINT.replace(/\/+$/, '') : null;
 
         const folders = fs.readdirSync(NEWSLETTERS_DIR, { withFileTypes: true })
             .filter(dirent => dirent.isDirectory())
@@ -55,10 +78,18 @@ router.get('/', async (req, res) => {
                     folderDate = new Date(`${year}-${month}-${day}T12:00:00Z`);
                 }
 
+                const cleanFolder = sanitizeFolderName(fol);
+                let coverUrl = null;
+                if (coverImage) {
+                    coverUrl = endpoint
+                        ? `${endpoint}/newsletters/${cleanFolder}/${sanitizeFileName(coverImage)}`
+                        : `/newsletters/${encodeURIComponent(fol)}/${encodeURIComponent(coverImage)}`;
+                }
+
                 newsletters.push({
                     id: fol,
                     title: docxFile.replace('.docx', ''),
-                    cover: coverImage ? `/newsletters/${encodeURIComponent(fol)}/${encodeURIComponent(coverImage)}` : null,
+                    cover: coverUrl,
                     htmlContent: htmlStr,
                     createdAt: folderDate
                 });

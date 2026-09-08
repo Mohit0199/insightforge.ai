@@ -15,6 +15,14 @@ debug_out.log
 output.json
 test_parse.js
 *.tmp
+.imagekit-sync-cache.json
+data/.imagekit-sync-cache.json
+
+# Public heavy media directories (now hosted on ImageKit CDN)
+# Note: Manifests in data/ (*-manifest.json) remain committed for instant API responses.
+public/carousels/
+public/slide decks/
+public/newsletters/
 
 # OS generated files
 .DS_Store

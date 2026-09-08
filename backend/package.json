@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "sync:media": "node scripts/sync-imagekit.js",
+    "manifest": "node scripts/sync-imagekit.js --manifest-only",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,6 +18,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "imagekit": "^6.0.0",
     "mammoth": "^1.11.0",
     "nodemon": "^3.1.14",
     "yt-search": "^2.13.1"

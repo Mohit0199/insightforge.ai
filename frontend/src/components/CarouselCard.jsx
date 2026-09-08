@@ -1,6 +1,7 @@
 import React from 'react';
 import { Layers } from 'lucide-react';
 import { motion } from 'framer-motion';
+import { getImageUrl } from '../utils/imageUrl';
 
 const itemVariant = {
     hidden: { opacity: 0, y: 30 },
@@ -45,7 +46,7 @@ function CarouselCard({ carousel, onOpen, index = 0 }) {
             <div className="spotlight-overlay"></div>
             <div className="card-image-wrapper">
                 <img
-                    src={carousel.cover ? `${import.meta.env.VITE_API_URL}${carousel.cover}` : '/placeholder.jpg'}
+                    src={getImageUrl(carousel.cover)}
                     alt={carousel.title}
                     loading="lazy"
                 />

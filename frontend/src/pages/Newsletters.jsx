@@ -3,6 +3,7 @@ import { motion, AnimatePresence, useScroll, useTransform } from 'framer-motion'
 import { Layers, Calendar, ChevronLeft, Search } from 'lucide-react';
 import Pagination from '../components/Pagination';
 import NewsletterReader from '../components/NewsletterReader';
+import { getImageUrl } from '../utils/imageUrl';
 
 const containerVariant = {
     hidden: { opacity: 0 },
@@ -158,7 +159,7 @@ function Newsletters({ searchTerm }) {
                                         <div className="spotlight-overlay"></div>
                                         <div style={{ width: '240px', flexShrink: 0 }}>
                                             <img
-                                                src={nl.cover ? `${import.meta.env.VITE_API_URL}${nl.cover}` : '/placeholder.jpg'}
+                                                src={getImageUrl(nl.cover)}
                                                 alt={nl.title}
                                                 style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                                             />

@@ -3,13 +3,37 @@ const fs = require('fs');
 const path = require('path');
 const router = express.Router();
 
+const manifestPath = path.join(__dirname, '../data/playbooks-manifest.json');
+
+function sanitizeFolderName(name) {
+    return name
+        .replace(/[^\w-]/g, '_')
+        .replace(/_+/g, '_')
+        .replace(/^_+|_+$/g, '');
+}
+
+function sanitizeFileName(name) {
+    const ext = path.extname(name);
+    const base = path.basename(name, ext);
+    const cleanBase = base.replace(/[^\w-]/g, '_').replace(/_+/g, '_');
+    return `${cleanBase}${ext.toLowerCase()}`;
+}
+
 router.get('/', (req, res) => {
     try {
+        // Fast path: serve pre-generated manifest if available
+        if (fs.existsSync(manifestPath)) {
+            const manifestData = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+            return res.json(manifestData);
+        }
+
         const publicDir = path.join(__dirname, '../public/slide decks');
 
         if (!fs.existsSync(publicDir)) {
             return res.json([]);
         }
+
+        const endpoint = process.env.IMAGEKIT_URL_ENDPOINT ? process.env.IMAGEKIT_URL_ENDPOINT.replace(/\/+$/, '') : null;
 
         const folders = fs.readdirSync(publicDir, { withFileTypes: true })
             .filter(dirent => dirent.isDirectory())
@@ -37,7 +61,10 @@ router.get('/', (req, res) => {
             const cleanTitle = rawTitle.replace(/_/g, ' ');
 
             // Generate URLs for frontend
-            const imageUrls = imageFiles.map(file => `/slide decks/${folder}/${file}`);
+            const cleanFolder = sanitizeFolderName(folder);
+            const imageUrls = endpoint
+                ? imageFiles.map(file => `${endpoint}/slide_decks/${cleanFolder}/${sanitizeFileName(file)}`)
+                : imageFiles.map(file => `/slide decks/${folder}/${file}`);
 
             return {
                 id: folder,

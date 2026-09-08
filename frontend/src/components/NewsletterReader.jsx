@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ChevronLeft } from 'lucide-react';
+import { getImageUrl } from '../utils/imageUrl';
 
 function NewsletterReader({ newsletter, onBack }) {
     useEffect(() => {
@@ -41,7 +42,7 @@ function NewsletterReader({ newsletter, onBack }) {
                 {newsletter.cover && (
                     <div style={{ width: '100%', height: '400px', borderRadius: '16px', overflow: 'hidden', marginBottom: '3rem' }}>
                         <img
-                            src={`${import.meta.env.VITE_API_URL}${newsletter.cover}`}
+                            src={getImageUrl(newsletter.cover)}
                             alt="Cover"
                             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                         />

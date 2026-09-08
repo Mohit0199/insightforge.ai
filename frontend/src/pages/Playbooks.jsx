@@ -3,6 +3,7 @@ import { motion, AnimatePresence, useScroll, useTransform } from 'framer-motion'
 import { BookOpen, Layers } from 'lucide-react';
 import Pagination from '../components/Pagination';
 import LightboxModal from '../components/LightboxModal';
+import { getImageUrl } from '../utils/imageUrl';
 
 const itemVariant = {
     hidden: { opacity: 0, y: 30 },
@@ -138,7 +139,7 @@ function Playbooks({ searchTerm }) {
                                             style={{
                                                 width: '100%',
                                                 height: '100%',
-                                                backgroundImage: `url("${import.meta.env.VITE_API_URL}${encodeURI(playbook.coverImage)}")`,
+                                                backgroundImage: `url("${getImageUrl(playbook.coverImage)}")`,
                                                 backgroundSize: 'cover',
                                                 backgroundPosition: 'center',
                                                 backgroundColor: '#111'

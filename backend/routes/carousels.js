@@ -4,10 +4,20 @@ const fs = require('fs');
 const path = require('path');
 
 const carouselsDir = path.join(__dirname, '..', 'public', 'carousels');
+const manifestPath = path.join(__dirname, '..', 'data', 'carousels-manifest.json');
 
-// Ensure carousels directory exists
-if (!fs.existsSync(carouselsDir)) {
-    fs.mkdirSync(carouselsDir, { recursive: true });
+function sanitizeFolderName(name) {
+    return name
+        .replace(/[^\w-]/g, '_')
+        .replace(/_+/g, '_')
+        .replace(/^_+|_+$/g, '');
+}
+
+function sanitizeFileName(name) {
+    const ext = path.extname(name);
+    const base = path.basename(name, ext);
+    const cleanBase = base.replace(/[^\w-]/g, '_').replace(/_+/g, '_');
+    return `${cleanBase}${ext.toLowerCase()}`;
 }
 
 // Helper to get directories
@@ -19,8 +29,19 @@ const getDirectories = (source) =>
 // Endpoint to fetch all carousels
 router.get('/', (req, res) => {
     try {
+        // Fast path: serve pre-generated manifest if available
+        if (fs.existsSync(manifestPath)) {
+            const manifestData = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+            return res.json(manifestData);
+        }
+
+        if (!fs.existsSync(carouselsDir)) {
+            return res.json([]);
+        }
+
         const folders = getDirectories(carouselsDir);
         console.log(`[API] Found ${folders.length} total folders`);
+        const endpoint = process.env.IMAGEKIT_URL_ENDPOINT ? process.env.IMAGEKIT_URL_ENDPOINT.replace(/\/+$/, '') : null;
 
         const carouselsData = folders.map(folder => {
             const folderPath = path.join(carouselsDir, folder);
@@ -124,10 +145,15 @@ router.get('/', (req, res) => {
 
             if (folder.includes('DS_')) console.log(`[API] Returning metadata for ${folder} with ${images.length} images`);
 
+            const cleanFolder = sanitizeFolderName(folder);
+            const imageUrls = endpoint
+                ? images.map(img => `${endpoint}/carousels/${cleanFolder}/${sanitizeFileName(img)}`)
+                : images.map(img => `/carousels/${folder}/${img}`);
+
             return {
                 ...metadata,
-                images: images.map(img => `/carousels/${folder}/${img}`),
-                cover: images.length > 0 ? `/carousels/${folder}/${images[0]}` : null,
+                images: imageUrls,
+                cover: imageUrls.length > 0 ? imageUrls[0] : null,
                 slideCount: images.length
             };
         });

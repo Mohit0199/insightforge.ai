@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { X, ChevronLeft, ChevronRight, Maximize, Minimize, Play, Pause } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { getImageUrl } from '../utils/imageUrl';
 
 const variants = {
     enter: (direction) => ({
@@ -226,7 +227,7 @@ function LightboxModal({ carousel, onClose }) {
                     <AnimatePresence initial={false} custom={direction}>
                         <motion.img
                             key={page}
-                            src={`${import.meta.env.VITE_API_URL}${images[currentIndex]}`}
+                            src={getImageUrl(images[currentIndex])}
                             alt={`${carousel.title} - Slide ${currentIndex + 1}`}
                             className="slide-image"
                             custom={direction}
@@ -300,7 +301,7 @@ function LightboxModal({ carousel, onClose }) {
                         style={{ left: `${hoverPercent * 100}%` }}
                     >
                         <img
-                            src={`${import.meta.env.VITE_API_URL}${images[hoverIndex]}`}
+                            src={getImageUrl(images[hoverIndex])}
                             alt="Preview"
                             className="preview-image"
                         />

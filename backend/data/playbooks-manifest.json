@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "40_LM_The_DQN_Revolution",
+    "title": "The DQN Revolution",
+    "description": "A visual deep-dive playbook on The DQN Revolution.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/40_LM_The_DQN_Revolution/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1788330565683
+  },
+  {
+    "id": "39_LM_Segment_Anything_Foundation_Model",
+    "title": "Segment Anything Foundation Model",
+    "description": "A visual deep-dive playbook on Segment Anything Foundation Model.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/39_LM_Segment_Anything_Foundation_Model/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1787917336197
+  },
+  {
+    "id": "38_LM_Toolformer_Deep_Dive",
+    "title": "Toolformer Deep Dive",
+    "description": "A visual deep-dive playbook on Toolformer Deep Dive.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/38_LM_Toolformer_Deep_Dive/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1787293945925
+  },
+  {
+    "id": "37_LM_Unlocking_AI_Logic",
+    "title": "Unlocking AI Logic",
+    "description": "A visual deep-dive playbook on Unlocking AI Logic.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/37_LM_Unlocking_AI_Logic/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1786712831821
+  },
+  {
+    "id": "36_LM_Vision_Transformers",
+    "title": "Vision Transformers",
+    "description": "A visual deep-dive playbook on Vision Transformers.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/36_LM_Vision_Transformers/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1786076193303
+  },
+  {
+    "id": "35_LM_CLIP_Multi_Modal_Matchmaker",
+    "title": "CLIP Multi Modal Matchmaker",
+    "description": "A visual deep-dive playbook on CLIP Multi Modal Matchmaker.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/35_LM_CLIP_Multi_Modal_Matchmaker/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1785569590176
+  },
+  {
+    "id": "34_LM_InstructGPT_Alignment_Blueprint",
+    "title": "InstructGPT Alignment Blueprint",
+    "description": "A visual deep-dive playbook on InstructGPT Alignment Blueprint.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/34_LM_InstructGPT_Alignment_Blueprint/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1784877428651
+  },
+  {
+    "id": "33_LM_GPT-3_Scale_Revolution",
+    "title": "GPT-3 Scale Revolution",
+    "description": "A visual deep-dive playbook on GPT-3 Scale Revolution.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/33_LM_GPT-3_Scale_Revolution/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1784530471935
+  },
+  {
+    "id": "32_LM_The_ReAct_AI_Framework",
+    "title": "The ReAct AI Framework",
+    "description": "A visual deep-dive playbook on The ReAct AI Framework.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/32_LM_The_ReAct_AI_Framework/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1783578673384
+  },
+  {
+    "id": "31_LM_Mastering_LoRA",
+    "title": "Mastering LoRA",
+    "description": "A visual deep-dive playbook on Mastering LoRA.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/31_LM_Mastering_LoRA/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1782973589308
+  },
+  {
+    "id": "30_LM_The_RAG_Open-Book_Framework",
+    "title": "The RAG Open-Book Framework",
+    "description": "A visual deep-dive playbook on The RAG Open-Book Framework.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/30_LM_The_RAG_Open-Book_Framework/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1782735033597
+  },
+  {
+    "id": "29_LM_YOLO_Real-Time_Detection",
+    "title": "YOLO Real-Time Detection",
+    "description": "A visual deep-dive playbook on YOLO Real-Time Detection.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/29_LM_YOLO_Real-Time_Detection/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1781763775979
+  },
+  {
+    "id": "28_LM_The_GAN_Revolution",
+    "title": "The GAN Revolution",
+    "description": "A visual deep-dive playbook on The GAN Revolution.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/28_LM_The_GAN_Revolution/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1781263514387
+  },
+  {
+    "id": "27_LM_The_AlexNet_Breakthrough",
+    "title": "The AlexNet Breakthrough",
+    "description": "A visual deep-dive playbook on The AlexNet Breakthrough.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/27_LM_The_AlexNet_Breakthrough/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1780143755897
+  },
+  {
+    "id": "26_LM_The_Geometry_of_Word2Vec",
+    "title": "The Geometry of Word2Vec",
+    "description": "A visual deep-dive playbook on The Geometry of Word2Vec.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/26_LM_The_Geometry_of_Word2Vec/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1779523307851
+  },
+  {
+    "id": "25_LM_Decoding_GPT_Architecture",
+    "title": "Decoding GPT Architecture",
+    "description": "A visual deep-dive playbook on Decoding GPT Architecture.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/25_LM_Decoding_GPT_Architecture/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1779086325458
+  },
+  {
+    "id": "24_LM_Unmasking_BERT",
+    "title": "Unmasking BERT",
+    "description": "A visual deep-dive playbook on Unmasking BERT.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/24_LM_Unmasking_BERT/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1778742952011
+  },
+  {
+    "id": "23_LM_attention_is_all_you_need",
+    "title": "attention is all you need",
+    "description": "A visual deep-dive playbook on attention is all you need.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/23_LM_attention_is_all_you_need/12.jpg"
+    ],
+    "totalSlides": 12,
+    "createdAt": 1778075429011
+  },
+  {
+    "id": "22_LM_The_200ms_Instagram_Algorithm",
+    "title": "The 200ms Instagram Algorithm",
+    "description": "A visual deep-dive playbook on The 200ms Instagram Algorithm.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/22_LM_The_200ms_Instagram_Algorithm/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "21_LM_Inside_the_Netflix_Prediction_Engine",
+    "title": "Inside the Netflix Prediction Engine",
+    "description": "A visual deep-dive playbook on Inside the Netflix Prediction Engine.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/21_LM_Inside_the_Netflix_Prediction_Engine/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion",
+    "title": "From Chaos to Canvas The Art of AI Diffusion",
+    "description": "A visual deep-dive playbook on From Chaos to Canvas The Art of AI Diffusion.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/20_LM_From_Chaos_to_Canvas_The_Art_of_AI_Diffusion/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "19_LM_How_AI_Translates_Prompt_to_Vision",
+    "title": "How AI Translates Prompt to Vision",
+    "description": "A visual deep-dive playbook on How AI Translates Prompt to Vision.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/19_LM_How_AI_Translates_Prompt_to_Vision/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "18_LM_Explaining_LLM's_Inner_Workings",
+    "title": "Explaining LLM's Inner Workings",
+    "description": "A visual deep-dive playbook on Explaining LLM's Inner Workings.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/18_LM_Explaining_LLM_s_Inner_Workings/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "17_LM_ChatGPT_Origin_Story",
+    "title": "ChatGPT Origin Story",
+    "description": "A visual deep-dive playbook on ChatGPT Origin Story.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/17_LM_ChatGPT_Origin_Story/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "16_LM_Decoding_Face_AI",
+    "title": "Decoding Face AI",
+    "description": "A visual deep-dive playbook on Decoding Face AI.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/16_LM_Decoding_Face_AI/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "15_LM_Decoding_Machine_Vision",
+    "title": "Decoding Machine Vision",
+    "description": "A visual deep-dive playbook on Decoding Machine Vision.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/15_LM_Decoding_Machine_Vision/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "14_LM_Claude_Code_Guide",
+    "title": "Claude Code Guide",
+    "description": "A visual deep-dive playbook on Claude Code Guide.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/14_LM_Claude_Code_Guide/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "13_LM_Adversarial_Dreams_(GAN)",
+    "title": "Adversarial Dreams (GAN)",
+    "description": "A visual deep-dive playbook on Adversarial Dreams (GAN).",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/13_LM_Adversarial_Dreams_GAN/13.jpg"
+    ],
+    "totalSlides": 13,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "12_LM_The_Birth_of_GANs",
+    "title": "The Birth of GANs",
+    "description": "A visual deep-dive playbook on The Birth of GANs.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/12_LM_The_Birth_of_GANs/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "11_LM_Mastering_Imbalanced_Data",
+    "title": "Mastering Imbalanced Data",
+    "description": "A visual deep-dive playbook on Mastering Imbalanced Data.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/11_LM_Mastering_Imbalanced_Data/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "10_LM_The_Curse_of_Dimensionality",
+    "title": "The Curse of Dimensionality",
+    "description": "A visual deep-dive playbook on The Curse of Dimensionality.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/10_LM_The_Curse_of_Dimensionality/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042256
+  },
+  {
+    "id": "09_LM_From_Chatbots_to_Agentic_AI",
+    "title": "From Chatbots to Agentic AI",
+    "description": "A visual deep-dive playbook on From Chatbots to Agentic AI.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/09_LM_From_Chatbots_to_Agentic_AI/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "08_LM_Gradient_Descent_Demystified",
+    "title": "Gradient Descent Demystified",
+    "description": "A visual deep-dive playbook on Gradient Descent Demystified.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/08_LM_Gradient_Descent_Demystified/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "07_LM_Regression_Loss_Function_Mastery",
+    "title": "Regression Loss Function Mastery",
+    "description": "A visual deep-dive playbook on Regression Loss Function Mastery.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/07_LM_Regression_Loss_Function_Mastery/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "06_LM_Docker_Escaping_Dependency_Hell_for_ML",
+    "title": "Docker Escaping Dependency Hell for ML",
+    "description": "A visual deep-dive playbook on Docker Escaping Dependency Hell for ML.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/06_LM_Docker_Escaping_Dependency_Hell_for_ML/11.jpg"
+    ],
+    "totalSlides": 11,
+    "createdAt": 1777728042251
+  },
+  {
+    "id": "05_LM_OLS_Prediction_Machine_Unlocked",
+    "title": "OLS Prediction Machine Unlocked",
+    "description": "A visual deep-dive playbook on OLS Prediction Machine Unlocked.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/05_LM_OLS_Prediction_Machine_Unlocked/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "04_LM_Linear_Regression_Decoded",
+    "title": "Linear Regression Decoded",
+    "description": "A visual deep-dive playbook on Linear Regression Decoded.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/04_LM_Linear_Regression_Decoded/14.jpg"
+    ],
+    "totalSlides": 14,
+    "createdAt": 1777728042254
+  },
+  {
+    "id": "03_LM_Perceptron",
+    "title": "Perceptron",
+    "description": "A visual deep-dive playbook on Perceptron.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/03_LM_Perceptron/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042256
+  },
+  {
+    "id": "02_LM_ML_Types",
+    "title": "ML Types",
+    "description": "A visual deep-dive playbook on ML Types.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/02_LM_ML_Types/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1777728042256
+  },
+  {
+    "id": "01_LM_Bias_Variance_Mastery",
+    "title": "Bias Variance Mastery",
+    "description": "A visual deep-dive playbook on Bias Variance Mastery.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/01_LM_Bias_Variance_Mastery/13.jpg"
+    ],
+    "totalSlides": 13,
+    "createdAt": 1777728042251
+  }
+]

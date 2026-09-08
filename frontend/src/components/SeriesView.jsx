@@ -2,6 +2,7 @@ import React, { useRef, useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronRight, ChevronLeft, Layers } from 'lucide-react';
 import Pagination from './Pagination';
+import { getImageUrl } from '../utils/imageUrl';
 
 function SeriesRow({ seriesName, carousels, onOpenCarousel, index = 0 }) {
     const rowRef = useRef(null);
@@ -56,7 +57,7 @@ function SeriesRow({ seriesName, carousels, onOpenCarousel, index = 0 }) {
                             <div className="spotlight-overlay"></div>
                             <div className="series-image-wrapper">
                                 <img
-                                    src={carousel.cover ? `${import.meta.env.VITE_API_URL}${carousel.cover}` : '/placeholder.jpg'}
+                                    src={getImageUrl(carousel.cover)}
                                     alt={carousel.title}
                                     loading="lazy"
                                 />

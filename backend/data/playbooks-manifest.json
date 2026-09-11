@@ -1,5 +1,34 @@
 [
   {
+    "id": "41_LM_Latent_Diffusion_Revolution",
+    "title": "Latent Diffusion Revolution",
+    "description": "A visual deep-dive playbook on Latent Diffusion Revolution.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/41_LM_Latent_Diffusion_Revolution/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1789123217696
+  },
+  {
     "id": "40_LM_The_DQN_Revolution",
     "title": "The DQN Revolution",
     "description": "A visual deep-dive playbook on The DQN Revolution.",

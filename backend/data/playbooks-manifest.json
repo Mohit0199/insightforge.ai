@@ -1,5 +1,34 @@
 [
   {
+    "id": "42_LM_Chinchilla_Scaling_Laws",
+    "title": "Chinchilla Scaling Laws",
+    "description": "A visual deep-dive playbook on Chinchilla Scaling Laws.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/42_LM_Chinchilla_Scaling_Laws/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1789622510349
+  },
+  {
     "id": "41_LM_Latent_Diffusion_Revolution",
     "title": "Latent Diffusion Revolution",
     "description": "A visual deep-dive playbook on Latent Diffusion Revolution.",

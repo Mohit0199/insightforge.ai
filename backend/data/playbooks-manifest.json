@@ -1,5 +1,32 @@
 [
   {
+    "id": "43_LM_Deconstructing_Adam",
+    "title": "Deconstructing Adam",
+    "description": "A visual deep-dive playbook on Deconstructing Adam.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/43_LM_Deconstructing_Adam/13.jpg"
+    ],
+    "totalSlides": 13,
+    "createdAt": 1790232526362
+  },
+  {
     "id": "42_LM_Chinchilla_Scaling_Laws",
     "title": "Chinchilla Scaling Laws",
     "description": "A visual deep-dive playbook on Chinchilla Scaling Laws.",

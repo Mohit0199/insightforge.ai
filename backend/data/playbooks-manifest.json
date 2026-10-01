@@ -1,5 +1,34 @@
 [
   {
+    "id": "44_LM_Learning_Transferable_Visual_Models",
+    "title": "Learning Transferable Visual Models",
+    "description": "A visual deep-dive playbook on Learning Transferable Visual Models.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/44_LM_Learning_Transferable_Visual_Models/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1790856973001
+  },
+  {
     "id": "43_LM_Deconstructing_Adam",
     "title": "Deconstructing Adam",
     "description": "A visual deep-dive playbook on Deconstructing Adam.",

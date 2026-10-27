@@ -3629,6 +3629,198 @@
     "slideCount": 11
   },
   {
+    "id": "DS_DLActivationFunctions06",
+    "title": "DLActivation Functions - Part 6",
+    "tags": [
+      "DLActivation Functions",
+      "Data Science"
+    ],
+    "description": "Part 6 of the comprehensive DLActivation Functions series.",
+    "isSeries": true,
+    "seriesName": "DLActivation Functions",
+    "sequenceNumber": 6,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-11.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-12-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions06/slide-01.jpg",
+    "slideCount": 12
+  },
+  {
+    "id": "DS_DLActivationFunctions07",
+    "title": "DLActivation Functions - Part 7",
+    "tags": [
+      "DLActivation Functions",
+      "Data Science"
+    ],
+    "description": "Part 7 of the comprehensive DLActivation Functions series.",
+    "isSeries": true,
+    "seriesName": "DLActivation Functions",
+    "sequenceNumber": 7,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions07/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLActivationFunctions08",
+    "title": "DLActivation Functions - Part 8",
+    "tags": [
+      "DLActivation Functions",
+      "Data Science"
+    ],
+    "description": "Part 8 of the comprehensive DLActivation Functions series.",
+    "isSeries": true,
+    "seriesName": "DLActivation Functions",
+    "sequenceNumber": 8,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-11.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-12-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions08/slide-01.jpg",
+    "slideCount": 12
+  },
+  {
+    "id": "DS_DLActivationFunctions09",
+    "title": "DLActivation Functions - Part 9",
+    "tags": [
+      "DLActivation Functions",
+      "Data Science"
+    ],
+    "description": "Part 9 of the comprehensive DLActivation Functions series.",
+    "isSeries": true,
+    "seriesName": "DLActivation Functions",
+    "sequenceNumber": 9,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-11.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-12-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLActivationFunctions09/slide-01.jpg",
+    "slideCount": 12
+  },
+  {
+    "id": "DS_DLAdaGrad01",
+    "title": "DLAda Grad - Part 1",
+    "tags": [
+      "DLAda Grad",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLAda Grad series.",
+    "isSeries": true,
+    "seriesName": "DLAda Grad",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLAdaGrad02",
+    "title": "DLAda Grad - Part 2",
+    "tags": [
+      "DLAda Grad",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLAda Grad series.",
+    "isSeries": true,
+    "seriesName": "DLAda Grad",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLAdaGrad03",
+    "title": "DLAda Grad - Part 3",
+    "tags": [
+      "DLAda Grad",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLAda Grad series.",
+    "isSeries": true,
+    "seriesName": "DLAda Grad",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLAdaGrad03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
     "id": "DS_DLBackprop01",
     "title": "DLBackprop - Part 1",
     "tags": [
@@ -3818,6 +4010,168 @@
     "slideCount": 11
   },
   {
+    "id": "DS_DLBatchNorm01",
+    "title": "DLBatch Norm - Part 1",
+    "tags": [
+      "DLBatch Norm",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLBatch Norm series.",
+    "isSeries": true,
+    "seriesName": "DLBatch Norm",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLBatchNorm02",
+    "title": "DLBatch Norm - Part 2",
+    "tags": [
+      "DLBatch Norm",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLBatch Norm series.",
+    "isSeries": true,
+    "seriesName": "DLBatch Norm",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLBatchNorm03",
+    "title": "DLBatch Norm - Part 3",
+    "tags": [
+      "DLBatch Norm",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLBatch Norm series.",
+    "isSeries": true,
+    "seriesName": "DLBatch Norm",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLBatchNorm04",
+    "title": "DLBatch Norm - Part 4",
+    "tags": [
+      "DLBatch Norm",
+      "Data Science"
+    ],
+    "description": "Part 4 of the comprehensive DLBatch Norm series.",
+    "isSeries": true,
+    "seriesName": "DLBatch Norm",
+    "sequenceNumber": 4,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLBatchNorm04/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLEWMA01",
+    "title": "DLEWMA - Part 1",
+    "tags": [
+      "DLEWMA",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLEWMA series.",
+    "isSeries": true,
+    "seriesName": "DLEWMA",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLEWMA02",
+    "title": "DLEWMA - Part 2",
+    "tags": [
+      "DLEWMA",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLEWMA series.",
+    "isSeries": true,
+    "seriesName": "DLEWMA",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLEWMA02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
     "id": "DS_DLIntro01",
     "title": "DLIntro - Part 1",
     "tags": [
@@ -3985,6 +4339,168 @@
     "slideCount": 12
   },
   {
+    "id": "DS_DLNAG01",
+    "title": "DLNAG - Part 1",
+    "tags": [
+      "DLNAG",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLNAG series.",
+    "isSeries": true,
+    "seriesName": "DLNAG",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLNAG02",
+    "title": "DLNAG - Part 2",
+    "tags": [
+      "DLNAG",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLNAG series.",
+    "isSeries": true,
+    "seriesName": "DLNAG",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLNAG03",
+    "title": "DLNAG - Part 3",
+    "tags": [
+      "DLNAG",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLNAG series.",
+    "isSeries": true,
+    "seriesName": "DLNAG",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLNAG03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLOptimizers01",
+    "title": "DLOptimizers - Part 1",
+    "tags": [
+      "DLOptimizers",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLOptimizers series.",
+    "isSeries": true,
+    "seriesName": "DLOptimizers",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLOptimizers02",
+    "title": "DLOptimizers - Part 2",
+    "tags": [
+      "DLOptimizers",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLOptimizers series.",
+    "isSeries": true,
+    "seriesName": "DLOptimizers",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLOptimizers03",
+    "title": "DLOptimizers - Part 3",
+    "tags": [
+      "DLOptimizers",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLOptimizers series.",
+    "isSeries": true,
+    "seriesName": "DLOptimizers",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLOptimizers03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
     "id": "DS_DLRegularization01",
     "title": "DLRegularization - Part 1",
     "tags": [
@@ -4093,6 +4609,195 @@
     "slideCount": 11
   },
   {
+    "id": "DS_DLRMSPropAdam01",
+    "title": "DLRMSProp Adam - Part 1",
+    "tags": [
+      "DLRMSProp Adam",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLRMSProp Adam series.",
+    "isSeries": true,
+    "seriesName": "DLRMSProp Adam",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLRMSPropAdam02",
+    "title": "DLRMSProp Adam - Part 2",
+    "tags": [
+      "DLRMSProp Adam",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLRMSProp Adam series.",
+    "isSeries": true,
+    "seriesName": "DLRMSProp Adam",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLRMSPropAdam03",
+    "title": "DLRMSProp Adam - Part 3",
+    "tags": [
+      "DLRMSProp Adam",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLRMSProp Adam series.",
+    "isSeries": true,
+    "seriesName": "DLRMSProp Adam",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLRMSPropAdam03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLSGD01",
+    "title": "DLSGD - Part 1",
+    "tags": [
+      "DLSGD",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLSGD series.",
+    "isSeries": true,
+    "seriesName": "DLSGD",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLSGD02",
+    "title": "DLSGD - Part 2",
+    "tags": [
+      "DLSGD",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLSGD series.",
+    "isSeries": true,
+    "seriesName": "DLSGD",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLSGD03",
+    "title": "DLSGD - Part 3",
+    "tags": [
+      "DLSGD",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLSGD series.",
+    "isSeries": true,
+    "seriesName": "DLSGD",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLSGD04",
+    "title": "DLSGD - Part 4",
+    "tags": [
+      "DLSGD",
+      "Data Science"
+    ],
+    "description": "Part 4 of the comprehensive DLSGD series.",
+    "isSeries": true,
+    "seriesName": "DLSGD",
+    "sequenceNumber": 4,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLSGD04/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
     "id": "DS_DLVanishingGradient01",
     "title": "DLVanishing Gradient - Part 1",
     "tags": [
@@ -4171,6 +4876,114 @@
       "https://ik.imagekit.io/insightforge/carousels/DS_DLVanishingGradient03/slide-11-cta.jpg"
     ],
     "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLVanishingGradient03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLWeightInit01",
+    "title": "DLWeight Init - Part 1",
+    "tags": [
+      "DLWeight Init",
+      "Data Science"
+    ],
+    "description": "Part 1 of the comprehensive DLWeight Init series.",
+    "isSeries": true,
+    "seriesName": "DLWeight Init",
+    "sequenceNumber": 1,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit01/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLWeightInit02",
+    "title": "DLWeight Init - Part 2",
+    "tags": [
+      "DLWeight Init",
+      "Data Science"
+    ],
+    "description": "Part 2 of the comprehensive DLWeight Init series.",
+    "isSeries": true,
+    "seriesName": "DLWeight Init",
+    "sequenceNumber": 2,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit02/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLWeightInit03",
+    "title": "DLWeight Init - Part 3",
+    "tags": [
+      "DLWeight Init",
+      "Data Science"
+    ],
+    "description": "Part 3 of the comprehensive DLWeight Init series.",
+    "isSeries": true,
+    "seriesName": "DLWeight Init",
+    "sequenceNumber": 3,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit03/slide-01.jpg",
+    "slideCount": 11
+  },
+  {
+    "id": "DS_DLWeightInit04",
+    "title": "DLWeight Init - Part 4",
+    "tags": [
+      "DLWeight Init",
+      "Data Science"
+    ],
+    "description": "Part 4 of the comprehensive DLWeight Init series.",
+    "isSeries": true,
+    "seriesName": "DLWeight Init",
+    "sequenceNumber": 4,
+    "images": [
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-01.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-02.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-03.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-04.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-05.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-06.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-07.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-08.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-09.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-10.jpg",
+      "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-11-cta.jpg"
+    ],
+    "cover": "https://ik.imagekit.io/insightforge/carousels/DS_DLWeightInit04/slide-01.jpg",
     "slideCount": 11
   },
   {

@@ -1,5 +1,34 @@
 [
   {
+    "id": "48_LM_FlashAttention",
+    "title": "FlashAttention",
+    "description": "A visual deep-dive playbook on FlashAttention.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/48_LM_FlashAttention/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1793339003657
+  },
+  {
     "id": "47_LM_Switch_Transformer_Blueprint",
     "title": "Switch Transformer Blueprint",
     "description": "A visual deep-dive playbook on Switch Transformer Blueprint.",

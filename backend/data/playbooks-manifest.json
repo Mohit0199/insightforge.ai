@@ -1,5 +1,34 @@
 [
   {
+    "id": "50_LM_Direct_Preference_Optimization",
+    "title": "Direct Preference Optimization",
+    "description": "A visual deep-dive playbook on Direct Preference Optimization.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/50_LM_Direct_Preference_Optimization/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1794552089686
+  },
+  {
     "id": "49_LM_Mamba_Beyond_Transformers",
     "title": "Mamba Beyond Transformers",
     "description": "A visual deep-dive playbook on Mamba Beyond Transformers.",

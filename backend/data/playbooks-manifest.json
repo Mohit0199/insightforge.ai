@@ -1,5 +1,34 @@
 [
   {
+    "id": "51_LM_LLaMA_s_Paradigm_Shift",
+    "title": "LLaMA s Paradigm Shift",
+    "description": "A visual deep-dive playbook on LLaMA s Paradigm Shift.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/51_LM_LLaMA_s_Paradigm_Shift/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1795182565821
+  },
+  {
     "id": "50_LM_Direct_Preference_Optimization",
     "title": "Direct Preference Optimization",
     "description": "A visual deep-dive playbook on Direct Preference Optimization.",

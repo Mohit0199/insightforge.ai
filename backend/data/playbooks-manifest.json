@@ -1,5 +1,34 @@
 [
   {
+    "id": "52_LM_DeepSeek-R1_Reasoning_Revolution",
+    "title": "DeepSeek-R1 Reasoning Revolution",
+    "description": "A visual deep-dive playbook on DeepSeek-R1 Reasoning Revolution.",
+    "tags": [
+      "Playbook",
+      "Visual Guide"
+    ],
+    "coverImage": "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/1.jpg",
+    "images": [
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/1.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/2.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/3.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/4.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/5.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/6.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/7.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/8.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/9.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/10.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/11.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/12.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/13.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/14.jpg",
+      "https://ik.imagekit.io/insightforge/slide_decks/52_LM_DeepSeek-R1_Reasoning_Revolution/15.jpg"
+    ],
+    "totalSlides": 15,
+    "createdAt": 1795607454022
+  },
+  {
     "id": "51_LM_LLaMA_s_Paradigm_Shift",
     "title": "LLaMA s Paradigm Shift",
     "description": "A visual deep-dive playbook on LLaMA s Paradigm Shift.",
